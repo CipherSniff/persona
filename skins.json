@@ -4,7 +4,7 @@
       "localization_name": "Cape1",
       "geometry": "geometry.humanoid.customSlim",
       "texture": "skin1.png",
-      "cape": "cape68.gif",
+      "cape": "cape1.png",
       "type": "free"
   },
   {
@@ -106,110 +106,229 @@
       "type": "free"
   },
   {
-    "localization_name": "Cape16",
-    "geometry": "geometry.humanoid.customSlim",
-    "texture": "skin2.png",
-    "cape": "cape1.png",
-    "type": "free"
+      "localization_name": "Cape16",
+      "geometry": "geometry.humanoid.customSlim",
+      "texture": "skin1.png",
+      "cape": "cape16.png",
+      "type": "free"
   },
   {
-    "localization_name": "Cape17",
-    "geometry": "geometry.humanoid.customSlim",
-    "texture": "skin2.png",
-    "cape": "cape2.png",
-    "type": "free"
+      "localization_name": "Cape17",
+      "geometry": "geometry.humanoid.customSlim",
+      "texture": "skin1.png",
+      "cape": "cape17.png",
+      "type": "free"
   },
   {
-    "localization_name": "Cape18",
-    "geometry": "geometry.humanoid.customSlim",
-    "texture": "skin2.png",
-    "cape": "cape3.png",
-    "type": "free"
+      "localization_name": "Cape18",
+      "geometry": "geometry.humanoid.customSlim",
+      "texture": "skin1.png",
+      "cape": "cape18.png",
+      "type": "free"
   },
   {
-    "localization_name": "Cape18",
-    "geometry": "geometry.humanoid.customSlim",
-    "texture": "skin2.png",
-    "cape": "cape4.png",
-    "type": "free"
+      "localization_name": "Cape19",
+      "geometry": "geometry.humanoid.customSlim",
+      "texture": "skin1.png",
+      "cape": "cape19.png",
+      "type": "free"
   },
   {
-    "localization_name": "Cape19",
-    "geometry": "geometry.humanoid.customSlim",
-    "texture": "skin2.png",
-    "cape": "cape5.png",
-    "type": "free"
+      "localization_name": "Cape20",
+      "geometry": "geometry.humanoid.customSlim",
+      "texture": "skin1.png",
+      "cape": "cape20.png",
+      "type": "free"
   },
   {
-    "localization_name": "Cape20",
-    "geometry": "geometry.humanoid.customSlim",
-    "texture": "skin2.png",
-    "cape": "cape6.png",
-    "type": "free"
+      "localization_name": "Cape21",
+      "geometry": "geometry.humanoid.customSlim",
+      "texture": "skin1.png",
+      "cape": "cape21.png",
+      "type": "free"
   },
   {
-    "localization_name": "Cape21",
-    "geometry": "geometry.humanoid.customSlim",
-    "texture": "skin2.png",
-    "cape": "cape7.png",
-    "type": "free"
+      "localization_name": "Cape22",
+      "geometry": "geometry.humanoid.customSlim",
+      "texture": "skin1.png",
+      "cape": "cape22.png",
+      "type": "free"
   },
   {
-    "localization_name": "Cape22",
-    "geometry": "geometry.humanoid.customSlim",
-    "texture": "skin2.png",
-    "cape": "cape8.png",
-    "type": "free"
+      "localization_name": "Cape23",
+      "geometry": "geometry.humanoid.customSlim",
+      "texture": "skin1.png",
+      "cape": "cape23.png",
+      "type": "free"
   },
   {
-    "localization_name": "Cape23",
-    "geometry": "geometry.humanoid.customSlim",
-    "texture": "skin2.png",
-    "cape": "cape9.png",
-    "type": "free"
+      "localization_name": "Cape24",
+      "geometry": "geometry.humanoid.customSlim",
+      "texture": "skin1.png",
+      "cape": "cape24.png",
+      "type": "free"
   },
   {
-    "localization_name": "Cape24",
-    "geometry": "geometry.humanoid.customSlim",
-    "texture": "skin2.png",
-    "cape": "cape10.png",
-    "type": "free"
+      "localization_name": "Cape25",
+      "geometry": "geometry.humanoid.customSlim",
+      "texture": "skin1.png",
+      "cape": "cape25.png",
+      "type": "free"
   },
   {
-    "localization_name": "Cape25",
-    "geometry": "geometry.humanoid.customSlim",
-    "texture": "skin2.png",
-    "cape": "cape11.png",
-    "type": "free"
+      "localization_name": "Cape26",
+      "geometry": "geometry.humanoid.customSlim",
+      "texture": "skin1.png",
+      "cape": "cape26.png",
+      "type": "free"
   },
   {
-    "localization_name": "Cape26",
-    "geometry": "geometry.humanoid.customSlim",
-    "texture": "skin2.png",
-    "cape": "cape12.png",
-    "type": "free"
+      "localization_name": "Cape27",
+      "geometry": "geometry.humanoid.customSlim",
+      "texture": "skin1.png",
+      "cape": "cape27.png",
+      "type": "free"
   },
   {
-    "localization_name": "Cape27",
-    "geometry": "geometry.humanoid.customSlim",
-    "texture": "skin2.png",
-    "cape": "cape13.png",
-    "type": "free"
+      "localization_name": "Cape28",
+      "geometry": "geometry.humanoid.customSlim",
+      "texture": "skin1.png",
+      "cape": "cape28.png",
+      "type": "free"
   },
   {
-    "localization_name": "Cape28",
-    "geometry": "geometry.humanoid.customSlim",
-    "texture": "skin2.png",
-    "cape": "cape14.png",
-    "type": "free"
+      "localization_name": "Cape29",
+      "geometry": "geometry.humanoid.customSlim",
+      "texture": "skin1.png",
+      "cape": "cape29.png",
+      "type": "free"
   },
   {
-    "localization_name": "Cape29",
-    "geometry": "geometry.humanoid.customSlim",
-    "texture": "skin2.png",
-    "cape": "cape15.png",
-    "type": "free"
-}  
+      "localization_name": "Cape30",
+      "geometry": "geometry.humanoid.customSlim",
+      "texture": "skin1.png",
+      "cape": "cape30.png",
+      "type": "free"
+  },
+  {
+      "localization_name": "Cape31",
+      "geometry": "geometry.humanoid.customSlim",
+      "texture": "skin1.png",
+      "cape": "cape31.png",
+      "type": "free"
+  },
+  {
+      "localization_name": "Cape32",
+      "geometry": "geometry.humanoid.customSlim",
+      "texture": "skin1.png",
+      "cape": "cape32.png",
+      "type": "free"
+  },
+  {
+      "localization_name": "Cape33",
+      "geometry": "geometry.humanoid.customSlim",
+      "texture": "skin1.png",
+      "cape": "cape33.png",
+      "type": "free"
+  },
+  {
+      "localization_name": "Cape34",
+      "geometry": "geometry.humanoid.customSlim",
+      "texture": "skin1.png",
+      "cape": "cape34.png",
+      "type": "free"
+  },
+  {
+      "localization_name": "Cape35",
+      "geometry": "geometry.humanoid.customSlim",
+      "texture": "skin1.png",
+      "cape": "cape35.png",
+      "type": "free"
+  },
+  {
+      "localization_name": "Cape36",
+      "geometry": "geometry.humanoid.customSlim",
+      "texture": "skin1.png",
+      "cape": "cape36.png",
+      "type": "free"
+  },
+  {
+      "localization_name": "Cape37",
+      "geometry": "geometry.humanoid.customSlim",
+      "texture": "skin1.png",
+      "cape": "cape37.png",
+      "type": "free"
+  },
+  {
+      "localization_name": "Cape38",
+      "geometry": "geometry.humanoid.customSlim",
+      "texture": "skin1.png",
+      "cape": "cape38.png",
+      "type": "free"
+  },
+  {
+      "localization_name": "Cape39",
+      "geometry": "geometry.humanoid.customSlim",
+      "texture": "skin1.png",
+      "cape": "cape39.png",
+      "type": "free"
+  },
+  {
+      "localization_name": "Cape40",
+      "geometry": "geometry.humanoid.customSlim",
+      "texture": "skin1.png",
+      "cape": "cape40.png",
+      "type": "free"
+  },
+  {
+      "localization_name": "Cape41",
+      "geometry": "geometry.humanoid.customSlim",
+      "texture": "skin1.png",
+      "cape": "cape41.png",
+      "type": "free"
+  },
+  {
+      "localization_name": "Cape42",
+      "geometry": "geometry.humanoid.customSlim",
+      "texture": "skin1.png",
+      "cape": "cape42.png",
+      "type": "free"
+  },
+  {
+      "localization_name": "Cape43",
+      "geometry": "geometry.humanoid.customSlim",
+      "texture": "skin1.png",
+      "cape": "cape43.png",
+      "type": "free"
+  },
+  {
+      "localization_name": "Cape44",
+      "geometry": "geometry.humanoid.customSlim",
+      "texture": "skin1.png",
+      "cape": "cape44.png",
+      "type": "free"
+  },
+  {
+      "localization_name": "Cape45",
+      "geometry": "geometry.humanoid.customSlim",
+      "texture": "skin1.png",
+      "cape": "cape45.png",
+      "type": "free"
+  },
+  {
+      "localization_name": "Cape46",
+      "geometry": "geometry.humanoid.customSlim",
+      "texture": "skin1.png",
+      "cape": "cape46.png",
+      "type": "free"
+  },
+  {
+      "localization_name": "Cape47",
+      "geometry": "geometry.humanoid.customSlim",
+      "texture": "skin1.png",
+      "cape": "cape47.png",
+      "type": "free"
+  }  
      ],
   "serialize_name": "CipherSniff Capes",
   "localization_name": "CipherSniff Capes"
